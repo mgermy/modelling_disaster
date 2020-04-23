@@ -1,6 +1,7 @@
 # modelling_disaster
 
 Competition discription: https://www.kaggle.com/c/titanic
+Kaggle kernel: https://www.kaggle.com/michellgermano/titanic-using-pycaret
 
 # Dataset 
 Datasets that include passenger information like name, age, gender, socio-economic class, etc.

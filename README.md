@@ -22,4 +22,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 # Result
 
-The model was able to get an accuracy of 0.78468 at the end of the competition
+The model was able to get an accuracy of 0.79 at the end of the competition
